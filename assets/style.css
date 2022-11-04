@@ -1,0 +1,28 @@
+@import url('padrao.css');
+body{
+    background-color: hsl(212, 45%, 89%)
+}
+section{
+    text-align: center;
+    height: 500px;
+    width: 300px;
+    background-color: #fff;
+    margin:10rem auto;
+    border-radius: 10px;
+    padding: 1rem;
+}
+p{
+    padding-top: 1rem;
+   font-size:15px;
+   color: hsl(220, 15%, 55%)
+}
+ img{
+   
+    width: 250px;
+    height: 250px;
+    border-radius: 10px ;
+}
+h1{
+    padding-top: 1rem;
+    font-size: 700;
+}
