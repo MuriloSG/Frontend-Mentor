@@ -25,4 +25,6 @@ p{
 h1{
     padding-top: 1rem;
     font-size: 700;
+    font-size: 1rem;
+    color: hsl(218, 44%, 22%);
 }
